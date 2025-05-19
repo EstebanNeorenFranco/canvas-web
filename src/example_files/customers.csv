@@ -1,0 +1,6 @@
+id,first_name,last_name,email,phone,address,city
+1,Ana,Perez,ana.perez@example.com,1134567890,123 Fake Street,Buenos Aires
+2,Carlos,Gomez,carlos.gomez@example.com,1145678901,742 Evergreen Ave,Córdoba
+3,Lucia,Ramirez,lucia.ramirez@example.com,1123456789,456 9th Street,Rosario
+4,Mariano,Diaz,mariano.diaz@example.com,1167890123,321 Belgrano,Mendoza
+5,Valeria,Torres,valeria.torres@example.com,1178901234,456 Mitre,La Plata

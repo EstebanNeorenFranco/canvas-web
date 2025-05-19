@@ -1,0 +1,6 @@
+sale_id,client_id,date,total,payment_method,status
+101,1,2025-04-01,15300,credit_card,confirmed
+102,3,2025-04-02,9800,cash,pending
+103,2,2025-04-03,22150,bank_transfer,confirmed
+104,5,2025-04-05,4500,cash,confirmed
+105,1,2025-04-06,12500,credit_card,pending
